@@ -141,6 +141,9 @@ B. WORKFLOW PENGEMBANGAN FITUR (HARIAN)
    git branch -d feature/login
    git push origin --delete feature/login
 
++  Melihat Semua Commit & branch
+   git log --oneline --graph --all --decorate
+
 ====================================================
 5. COMMIT MESSAGE STANDARD
 ====================================================
