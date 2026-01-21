@@ -1,5 +1,5 @@
 ====================================================
-PROJECT TEMPLATE - PROFESSIONAL STRUCTURE
+TEMPLATE BRANCH - PROFESSIONAL STRUCTURE
 ====================================================
 
 Project Name  : My Website
