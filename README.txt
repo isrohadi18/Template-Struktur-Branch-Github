@@ -102,6 +102,9 @@ A. SETUP AWAL (REPO LOKAL KE GITHUB)
 7. Hubungkan repo lokal ke GitHub
    git remote add origin https://github.com/username/my-website.git
 
++  git remote -v              (Check remote yang terhubung)
+   git remote remove origin   (Jika ingin menghapus remote)
+
 8. Push pertama ke GitHub
    git push -u origin main
 
