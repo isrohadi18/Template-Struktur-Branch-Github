@@ -144,6 +144,31 @@ B. WORKFLOW PENGEMBANGAN FITUR (HARIAN)
 +  Melihat Semua Commit & branch
    git log --oneline --graph --all --decorate
 
+
+----------------------------------------------------
+
+C. WORKFLOW MENGHAPUS FILE
+
+1. Masuk ke folde repo lokal
+   git checkout main
+   git pull origin main
+
++. Hapus 1 file
+   git rm name_file_yang di del
+
++. Hapus file dalam folder
+   git rm fldr_1/fldr_2/fldr_3/file.png
+
++. Hapus banyak file
+   git rm file_1.txt file_2.txt
+
+2. Commit perubahan
+   git commit -m "message commit"
+
+3. Push ke github
+   git push origin main
+
+
 ====================================================
 5. COMMIT MESSAGE STANDARD
 ====================================================
